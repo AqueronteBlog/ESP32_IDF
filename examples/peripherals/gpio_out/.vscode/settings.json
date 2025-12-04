@@ -1,0 +1,23 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:\\Users\\mcm\\esp\\master\\esp-idf",
+  "idf.pythonInstallPath": "C:\\Users\\mcm\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-bridge.cfg"
+  ],
+  "idf.portWin": "COM8",
+  "idf.toolsPathWin": "C:\\Users\\mcm\\.espressif",
+  "idf.customExtraVars": {
+    "OPENOCD_SCRIPTS": "C:\\Users\\mcm\\.espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20230419/openocd-esp32/share/openocd/scripts",
+    "IDF_CCACHE_ENABLE": "1",
+    "ESP_ROM_ELF_DIR": "C:\\Users\\mcm\\.espressif\\tools\\esp-rom-elfs\\20230320/",
+    "IDF_TARGET": "esp32c3"
+  },
+  "clangd.path": "C:\\Users\\mcm\\.espressif\\tools\\esp-clang\\esp-20.1.1_20250829\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=C:\\Users\\mcm\\.espressif\\tools\\riscv32-esp-elf\\esp-15.2.0_20250929\\riscv32-esp-elf\\bin\\riscv32-esp-elf-gcc.exe",
+    "--compile-commands-dir=d:\\Workspaces\\ESP32_IDF\\examples\\peripherals\\gpio_out\\build"
+  ],
+  "idf.flashType": "UART"
+}
