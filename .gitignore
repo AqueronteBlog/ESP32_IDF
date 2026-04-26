@@ -96,3 +96,26 @@ examples/peripherals/uart/main/CMakeLists.txt
 examples/peripherals/uart/dependencies.lock
 examples/peripherals/uart/CMakeLists.txt
 examples/peripherals/uart/.clangd
+/examples/peripherals/uart _wakeup/build
+/examples/peripherals/uart _wakeup/.vscode
+/examples/peripherals/uart _wakeup/managed_components
+/examples/peripherals/uart _wakeup/.devcontainer
+examples/peripherals/uart _wakeup/pytest_blink.py
+examples/peripherals/uart _wakeup/README.md
+examples/peripherals/uart _wakeup/sdkconfig
+examples/peripherals/uart _wakeup/sdkconfig.defaults
+examples/peripherals/uart _wakeup/sdkconfig.defaults.esp32
+examples/peripherals/uart _wakeup/sdkconfig.defaults.esp32c3
+examples/peripherals/uart _wakeup/sdkconfig.defaults.esp32c5
+examples/peripherals/uart _wakeup/sdkconfig.defaults.esp32c6
+examples/peripherals/uart _wakeup/sdkconfig.defaults.esp32c61
+examples/peripherals/uart _wakeup/sdkconfig.defaults.esp32h2
+examples/peripherals/uart _wakeup/sdkconfig.defaults.esp32p4
+examples/peripherals/uart _wakeup/sdkconfig.defaults.esp32s2
+examples/peripherals/uart _wakeup/sdkconfig.defaults.esp32s3
+examples/peripherals/uart _wakeup/sdkconfig.old
+examples/peripherals/uart _wakeup/.clangd
+examples/peripherals/uart _wakeup/CMakeLists.txt
+examples/peripherals/uart _wakeup/dependencies.lock
+examples/peripherals/uart _wakeup/main/idf_component.yml
+examples/peripherals/uart _wakeup/main/Kconfig.projbuild
