@@ -119,3 +119,25 @@ examples/peripherals/uart _wakeup/CMakeLists.txt
 examples/peripherals/uart _wakeup/dependencies.lock
 examples/peripherals/uart _wakeup/main/idf_component.yml
 examples/peripherals/uart _wakeup/main/Kconfig.projbuild
+/examples/peripherals/internal_temperature_sensor/build
+/examples/peripherals/internal_temperature_sensor/managed_components
+examples/peripherals/internal_temperature_sensor/pytest_blink.py
+examples/peripherals/internal_temperature_sensor/README.md
+examples/peripherals/internal_temperature_sensor/sdkconfig
+examples/peripherals/internal_temperature_sensor/sdkconfig.defaults
+examples/peripherals/internal_temperature_sensor/sdkconfig.defaults.esp32
+examples/peripherals/internal_temperature_sensor/sdkconfig.defaults.esp32c3
+examples/peripherals/internal_temperature_sensor/sdkconfig.defaults.esp32c5
+examples/peripherals/internal_temperature_sensor/sdkconfig.defaults.esp32c6
+examples/peripherals/internal_temperature_sensor/sdkconfig.defaults.esp32c61
+examples/peripherals/internal_temperature_sensor/sdkconfig.defaults.esp32h2
+examples/peripherals/internal_temperature_sensor/sdkconfig.defaults.esp32p4
+examples/peripherals/internal_temperature_sensor/sdkconfig.defaults.esp32s2
+examples/peripherals/internal_temperature_sensor/sdkconfig.defaults.esp32s3
+examples/peripherals/internal_temperature_sensor/sdkconfig.old
+examples/peripherals/internal_temperature_sensor/main/Kconfig.projbuild
+examples/peripherals/internal_temperature_sensor/main/idf_component.yml
+examples/peripherals/internal_temperature_sensor/dependencies.lock
+/examples/peripherals/internal_temperature_sensor/.vscode
+/examples/peripherals/internal_temperature_sensor/.devcontainer
+examples/peripherals/internal_temperature_sensor/.clangd
